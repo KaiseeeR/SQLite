@@ -19,8 +19,6 @@ import kotlin.collections.MapsKt;
 
 public class MainActivity extends AppCompatActivity {
     EditText ID, Nombre, Area;
-    //Hola
-    //Hola2
     ListView Lista;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
